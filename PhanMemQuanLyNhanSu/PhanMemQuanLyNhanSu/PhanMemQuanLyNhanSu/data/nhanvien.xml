@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<danhsachnhanvien>
+    <nhanvien>
+        <ma>1</ma>
+        <hoTen>Trần Tuấn Anh</hoTen>
+        <gioiTinh>Nam</gioiTinh>
+        <ngaySinh>18/03/2005</ngaySinh>
+        <phongBan>Nhân Viên</phongBan>
+        <diaChi>Hải Dương</diaChi>
+        <luong>2.0E7</luong>
+        <phoneNumber>099999999</phoneNumber>
+    </nhanvien>
+    <nhanvien>
+        <ma>2</ma>
+        <hoTen>Ngô Quang Trung</hoTen>
+        <gioiTinh>Nam</gioiTinh>
+        <ngaySinh>12/05/2005</ngaySinh>
+        <phongBan>Nhân Viên</phongBan>
+        <diaChi>Hải Phòng</diaChi>
+        <luong>2.0E7</luong>
+        <phoneNumber>088888888</phoneNumber>
+    </nhanvien>
+    <nhanvien>
+        <ma>3</ma>
+        <hoTen>Lệ Lưu Ly</hoTen>
+        <gioiTinh>Nữ</gioiTinh>
+        <ngaySinh>10/07/2009</ngaySinh>
+        <phongBan>Bảo vệ</phongBan>
+        <diaChi>Hà Nội</diaChi>
+        <luong>5000.0</luong>
+        <phoneNumber>07777777</phoneNumber>
+    </nhanvien>
+    <nhanvien>
+        <ma>4</ma>
+        <hoTen>Nguyễn Văn Dũng</hoTen>
+        <gioiTinh>Nam</gioiTinh>
+        <ngaySinh>10/06/1992</ngaySinh>
+        <phongBan>Kĩ thuật</phongBan>
+        <diaChi>Cầu Giấy, Hà Nội</diaChi>
+        <luong>5000000.0</luong>
+        <phoneNumber>0999999999</phoneNumber>
+    </nhanvien>
+    <nhanvien>
+        <ma>5</ma>
+        <hoTen>Nguyễn Thị Vân</hoTen>
+        <gioiTinh>Nữ</gioiTinh>
+        <ngaySinh>05/07/1992</ngaySinh>
+        <phongBan>Lễ tân</phongBan>
+        <diaChi>Long Biên, Hà Nội</diaChi>
+        <luong>700000.0</luong>
+        <phoneNumber>099964851</phoneNumber>
+    </nhanvien>
+</danhsachnhanvien>
